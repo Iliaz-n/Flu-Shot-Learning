@@ -1,2 +1,2 @@
 # Flu-Shot-Learning
-The goal is to predict patients that are likely to take the H1N1 and the Seasonal Flu Vaccine 
+The machine learning model included in this repository utilizes supervised learning techniques to predict vaccination outcomes. It takes into account a range of input features, including demographic data, medical history, vaccination records, and other relevant variables, to generate predictions about vaccination success, efficacy, and potential adverse effects. 
